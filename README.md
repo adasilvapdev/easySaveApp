@@ -10,7 +10,7 @@
 #7966FF\
 #9FB7FF\
 #FFC466\
-#504C6B\
+#504C6B
 
 Avenir Next
 
