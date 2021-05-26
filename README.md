@@ -1,11 +1,11 @@
 # :purple_heart: Easy Save App :moneybag: :purple_heart:
 This is a project made in React Native for proving my skills in UI/UX and React Native Framework.
 
-Color & Typography//
-#7966FF
-#9FB7FF
-#FFC466
-#504C6B
+Color & Typography\
+#7966FF\
+#9FB7FF\
+#FFC466\
+#504C6B\
 
 Avenir Next
 
