@@ -26,3 +26,5 @@ Designer: [Aditya Singh](https://www.behance.net/adityapro)
 ![8](https://user-images.githubusercontent.com/20091777/119235846-62fcde80-bb02-11eb-9ddd-645851e3fdf3.jpg)
 ![9](https://user-images.githubusercontent.com/20091777/119235849-66906580-bb02-11eb-86e1-8eca82eea600.jpg)
 ![10](https://user-images.githubusercontent.com/20091777/119235852-698b5600-bb02-11eb-842b-1fbeae297170.jpg)
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
